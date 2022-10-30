@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Gyu1291
 
-- 👀 I’m interested in ... 
-      - Building Startup
-      - Topic: Metaverse, Game, Web Platform
+- 👀 I’m interested in ... Building Startup(Topic: Metaverse, Game, Web Platform)
 
 - 🌱 I’m currently learning ... Server Development, Network Programming, System Programming, Game Development
 
