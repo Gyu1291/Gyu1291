@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gyu1291
+- 👋 Hi, I’m Soongyu Choi
 
 - 👀 I’m interested in ... Building Startup(Topic: Game, Generative AI, Web Platform)
 
