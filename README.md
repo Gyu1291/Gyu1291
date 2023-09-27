@@ -4,7 +4,7 @@
 
 💡 Intrested in generative AI, hardware emulator, p2p networking apps and game development
 
-🚀 Looking for some cool open source projects!
+💻 Looking for some cool open source projects!
 
 📫 How to reach me: soongyu1291@gmail.com
 
