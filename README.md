@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Soongyu Choi
+## 👋 Hi, I'm 0xMint
 
-- 👀 I’m interested in ... Building Startup
-  
-- 🌱 I’m currently learning ... Computer Architecture, LLM, System Network
+📚 Korean student, currently studying computer architecture at KAIST
 
-- 📫 How to reach me ... soongyu1291@gmail.com
+💡 Intrested in generative AI, hardware emulator, p2p networking apps and game development
+
+🚀 Looking for some cool open source projects!
+
+📫 How to reach me: soongyu1291@gmail.com
+
+
 
 <!---
 Gyu1291/Gyu1291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
