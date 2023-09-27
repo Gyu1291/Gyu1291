@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Soongyu Choi
 
-- 👀 I’m interested in ... Building Startup(Topic: Game, Generative AI, Web Platform)
-
-- 🌱 I’m currently learning ... Deep learning, Generative AI, Server Development, System Programming, Game Development
+- 👀 I’m interested in ... Building Startup
+  
+- 🌱 I’m currently learning ... Computer Architecture, LLM, System Network
 
 - 📫 How to reach me ... soongyu1291@gmail.com
 
