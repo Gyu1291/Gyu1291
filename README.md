@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm 0xMint
 
-📚 Korean student, currently studying computer architecture at KAIST
+📚 Korean student, currently studying computer architecture and chip design at KAIST
 
-💡 Intrested in generative AI, hardware emulator, p2p networking apps and game development
+💡 Intrested in domain specific hardware accelerator, deep learning, hardware emulator, p2p networking protocols and game development
 
 💻 Looking for some cool open source projects!
 
-📫 How to reach me: soongyu1291@gmail.com
+📫 How to reach me: soongyu1291@gmail.com / soongyu1291@kaist.ac.kr
 
 
 
