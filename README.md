@@ -2,7 +2,7 @@
 
 📚 Korean student, currently studying computer architecture and chip design at KAIST
 
-💡 Intrested in domain specific hardware accelerator, deep learning, hardware emulator, p2p networking protocols and game development
+💡 Intrested in domain specific AI accelerator, distributed systems and game development
 
 💻 Looking for some cool open source projects!
 
